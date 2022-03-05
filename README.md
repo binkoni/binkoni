@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![binkoni's github stats](https://github-readme-stats.vercel.app/api?username=binkoni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/binkoni)
+[![binkoni's github stats](https://github-readme-stats.vercel.app/api?username=binkoni&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/binkoni)
 
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbinkoni%2Fbinkoni)](https://github.com/binkoni/binkoni)
